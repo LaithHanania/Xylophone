@@ -1,3 +1,4 @@
+Note: this repository was cloned for skeleton code. Purpose of the application is to learn iOS development.
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Xylophone
